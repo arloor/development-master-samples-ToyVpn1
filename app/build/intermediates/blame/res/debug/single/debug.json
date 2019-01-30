@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vpn.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\src\\main\\res\\drawable\\ic_vpn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\build\\intermediates\\res\\merged\\debug\\layout_form.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\src\\main\\res\\layout\\form.xml"
+    }
+]

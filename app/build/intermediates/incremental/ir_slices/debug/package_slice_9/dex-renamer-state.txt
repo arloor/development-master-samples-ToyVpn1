@@ -1,0 +1,4 @@
+#Wed Jan 30 15:58:27 CST 2019
+base.0=E\:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

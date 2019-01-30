@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "663",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "958"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1091",
+                        "endLines": "27",
+                        "endColumns": "12",
+                        "endOffsets": "1386"
+                    }
+                },
+                {
+                    "source": "E:\\AndroidStudioProjects\\development-master-samples-ToyVpn1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "20,29,18,23,33,32,30,24,34,35,28,21,25,26,22,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "703,1125,663,851,1279,1216,1167,896,1338,1403,1060,755,947,1005,801,1557",
+                        "endLines": "20,29,18,23,33,32,30,24,34,37,28,21,25,26,22,40",
+                        "endColumns": "51,41,38,44,58,62,47,50,64,13,64,45,57,53,49,13",
+                        "endOffsets": "750,1162,697,891,1333,1274,1210,942,1398,1552,1120,796,1000,1054,846,1697"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,149,188,233,292,355,403,454,519,673,738,784,842,896,946",
+                        "endLines": "2,3,4,5,6,7,8,9,10,13,14,15,16,17,18,21",
+                        "endColumns": "51,41,38,44,58,62,47,50,64,13,64,45,57,53,49,13",
+                        "endOffsets": "102,144,183,228,287,350,398,449,514,668,733,779,837,891,941,1086"
+                    }
+                }
+            ]
+        }
+    ]
+}
